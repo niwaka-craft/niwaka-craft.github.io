@@ -103,7 +103,7 @@ export const siteContent = {
       thumbnail: "/images/wa-modern-cover.webp",
       thumbnailAlt: "和モダンホテル客室のサムネイル",
       description:
-        "木目、格子、畳、行灯と間接照明を組み合わせ、落ち着いた高級ホテルの客室として構成したVRChat向け3D背景モデル。アバター撮影や個人用ルームとして使いやすい空間密度を意識している。",
+        "木目、格子、畳、行灯と間接照明を組み合わせ、落ち着いた高級ホテルの客室として構成したVRChat向け3D背景モデル。アバター撮影や個人用ルームとして使いやすい空間密度を意識しています。",
       meta: [
         { label: "Platform", value: "Unity / VRChat" },
         { label: "Scope", value: "Model / Material / Lighting / Setup" },
@@ -142,9 +142,9 @@ export const siteContent = {
       ],
       product: {
         label: "Published Asset",
-        title: "UnityPackageとして販売中。",
+        title: "UnityPackageを販売中。",
         description:
-          "FBX、各種テクスチャ、設定済みマテリアル、配置済みPrefab、ライティング設定済みSceneを収録している。",
+          "FBX、各種テクスチャ、設定済みマテリアル、配置済みPrefab、ライティング設定済みSceneを収録しています。",
         primaryButton: "BOOTHで見る",
         secondaryButton: "サンプルワールド",
       },
@@ -173,7 +173,7 @@ export const siteContent = {
     },
     title: "制作依頼について",
     description:
-      "制作期間は応相談。仕様、用途、納期を確認したうえで個別に見積もる。VRChat向けアセットに限らず、ゲーム・映像用の背景、プロップ、キャラクター制作にも対応する。",
+      "制作期間は応相談。仕様、用途、納期を確認したうえで個別に見積もりを行います。VRChat向けアセットに限らず、ゲーム・映像用の背景、プロップ、キャラクター制作にも対応いたします。",
     services: [
       {
         number: "01",
@@ -191,11 +191,11 @@ export const siteContent = {
         number: "03",
         title: "Character",
         text: "ゲーム、映像、VRChatなど、用途とデザインに合わせた3Dキャラクター制作。",
-        price: "¥100,000〜",
+        price: "¥150,000〜",
       },
     ],
     priceNote:
-      "※料金は目安であり、形状、物量、品質、テクスチャ仕様、セットアップ範囲、商用利用条件によって変動する。",
+      "※料金は目安であり、形状、物量、品質、テクスチャ仕様、セットアップ範囲、商用利用条件によって変動します。",
     workflowLabel: "Workflow",
     workflowAriaLabel: "依頼の流れ",
     workflow: [
